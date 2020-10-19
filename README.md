@@ -4,6 +4,8 @@ A minimalistic snake game coded in C++ using SFML framework.
 
 ---
 
+## Gallery
+
 ![Image link broken.](https://github.com/Staneesh/snakeSFML/blob/master/snake1.png)
 
 ---
